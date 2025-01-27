@@ -1,0 +1,404 @@
+2025-01-25T21:32:48.504Z [ERROR]: Error getting menu items: Failed to connect to localhost:1433 - Could not connect (sequence)
+Meta: {
+  "code": "ESOCKET",
+  "originalError": {
+    "code": "ESOCKET"
+  },
+  "name": "ConnectionError"
+}
+Stack: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+    at eval (webpack-internal:///(rsc)/./node_modules/mssql/lib/tedious/connection-pool.js:85:17)
+    at Connection.onConnect (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:849:9)
+    at Object.onceWrapper (node:events:639:26)
+    at Connection.emit (node:events:524:28)
+    at Connection.emit (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:970:18)
+    at Connection.socketError (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:1353:12)
+    at eval (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:1146:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2025-01-25T21:32:50.558Z [ERROR]: Error getting menu items: Failed to connect to localhost:1433 - Could not connect (sequence)
+Meta: {
+  "code": "ESOCKET",
+  "originalError": {
+    "code": "ESOCKET"
+  },
+  "name": "ConnectionError"
+}
+Stack: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+    at eval (webpack-internal:///(rsc)/./node_modules/mssql/lib/tedious/connection-pool.js:85:17)
+    at Connection.onConnect (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:849:9)
+    at Object.onceWrapper (node:events:639:26)
+    at Connection.emit (node:events:524:28)
+    at Connection.emit (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:970:18)
+    at Connection.socketError (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:1353:12)
+    at eval (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:1146:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2025-01-25T21:33:12.145Z [ERROR]: Error getting menu items: Failed to connect to localhost:1433 - Could not connect (sequence)
+Meta: {
+  "code": "ESOCKET",
+  "originalError": {
+    "code": "ESOCKET"
+  },
+  "name": "ConnectionError"
+}
+Stack: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+    at eval (webpack-internal:///(rsc)/./node_modules/mssql/lib/tedious/connection-pool.js:85:17)
+    at Connection.onConnect (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:849:9)
+    at Object.onceWrapper (node:events:639:26)
+    at Connection.emit (node:events:524:28)
+    at Connection.emit (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:970:18)
+    at Connection.socketError (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:1353:12)
+    at eval (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:1146:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2025-01-25T21:33:12.176Z [ERROR]: Error getting menu items: Failed to connect to localhost:1433 - Could not connect (sequence)
+Meta: {
+  "code": "ESOCKET",
+  "originalError": {
+    "code": "ESOCKET"
+  },
+  "name": "ConnectionError"
+}
+Stack: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+    at eval (webpack-internal:///(rsc)/./node_modules/mssql/lib/tedious/connection-pool.js:85:17)
+    at Connection.onConnect (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:849:9)
+    at Object.onceWrapper (node:events:639:26)
+    at Connection.emit (node:events:524:28)
+    at Connection.emit (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:970:18)
+    at Connection.socketError (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:1353:12)
+    at eval (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:1146:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2025-01-25T21:33:59.412Z [ERROR]: Error getting menu items: Failed to connect to localhost:1433 - Could not connect (sequence)
+Meta: {
+  "code": "ESOCKET",
+  "originalError": {
+    "code": "ESOCKET"
+  },
+  "name": "ConnectionError"
+}
+Stack: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+    at eval (webpack-internal:///(rsc)/./node_modules/mssql/lib/tedious/connection-pool.js:85:17)
+    at Connection.onConnect (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:849:9)
+    at Object.onceWrapper (node:events:639:26)
+    at Connection.emit (node:events:524:28)
+    at Connection.emit (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:970:18)
+    at Connection.socketError (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:1353:12)
+    at eval (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:1146:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2025-01-25T21:33:59.887Z [ERROR]: Error getting menu items: Failed to connect to localhost:1433 - Could not connect (sequence)
+Meta: {
+  "code": "ESOCKET",
+  "originalError": {
+    "code": "ESOCKET"
+  },
+  "name": "ConnectionError"
+}
+Stack: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+    at eval (webpack-internal:///(rsc)/./node_modules/mssql/lib/tedious/connection-pool.js:85:17)
+    at Connection.onConnect (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:849:9)
+    at Object.onceWrapper (node:events:639:26)
+    at Connection.emit (node:events:524:28)
+    at Connection.emit (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:970:18)
+    at Connection.socketError (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:1353:12)
+    at eval (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:1146:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2025-01-25T21:35:57.005Z [ERROR]: Error getting menu items: Veritabanına bağlanılamadı
+Stack: Error: Veritabanına bağlanılamadı
+    at connectDB (webpack-internal:///(rsc)/./config/database.js:28:15)
+    at async MenuService.getAllMenuItems (webpack-internal:///(rsc)/./services/menuService.js:23:26)
+    at async GET (webpack-internal:///(rsc)/./app/api/menu/route.js:29:27)
+    at async E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:57228
+    at async eT.execute (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:46851)
+    at async eT.handle (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:58760)
+    at async doRender (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1366:42)
+    at async cacheEntry.responseCache.get.routeKind (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1588:28)
+    at async DevServer.renderToResponseWithComponentsImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1496:28)
+    at async DevServer.renderPageComponent (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1924:24)
+    at async DevServer.renderToResponseImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1962:32)
+    at async DevServer.pipeImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:922:25)
+    at async NextNodeServer.handleCatchallRenderRequest (E:\ReservationManagement\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:818:17)
+    at async E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (E:\ReservationManagement\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:336:24)
+    at async invokeRender (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:173:21)
+    at async handleRequest (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:350:24)
+    at async requestHandlerImpl (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:374:13)
+    at async Server.requestListener (E:\ReservationManagement\node_modules\next\dist\server\lib\start-server.js:141:13)
+2025-01-25T21:36:46.504Z [ERROR]: Error getting menu items: Veritabanına bağlanılamadı
+Stack: Error: Veritabanına bağlanılamadı
+    at connectDB (webpack-internal:///(rsc)/./config/database.js:28:15)
+    at async MenuService.getAllMenuItems (webpack-internal:///(rsc)/./services/menuService.js:23:26)
+    at async GET (webpack-internal:///(rsc)/./app/api/menu/route.js:29:27)
+    at async E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:57228
+    at async eT.execute (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:46851)
+    at async eT.handle (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:58760)
+    at async doRender (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1366:42)
+    at async cacheEntry.responseCache.get.routeKind (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1588:28)
+    at async DevServer.renderToResponseWithComponentsImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1496:28)
+    at async DevServer.renderPageComponent (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1924:24)
+    at async DevServer.renderToResponseImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1962:32)
+    at async DevServer.pipeImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:922:25)
+    at async NextNodeServer.handleCatchallRenderRequest (E:\ReservationManagement\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:818:17)
+    at async E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (E:\ReservationManagement\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:336:24)
+    at async invokeRender (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:173:21)
+    at async handleRequest (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:350:24)
+    at async requestHandlerImpl (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:374:13)
+    at async Server.requestListener (E:\ReservationManagement\node_modules\next\dist\server\lib\start-server.js:141:13)
+2025-01-25T21:36:47.248Z [ERROR]: Error getting menu items: Veritabanına bağlanılamadı
+Stack: Error: Veritabanına bağlanılamadı
+    at connectDB (webpack-internal:///(rsc)/./config/database.js:28:15)
+    at async MenuService.getAllMenuItems (webpack-internal:///(rsc)/./services/menuService.js:23:26)
+    at async GET (webpack-internal:///(rsc)/./app/api/menu/route.js:29:27)
+    at async E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:57228
+    at async eT.execute (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:46851)
+    at async eT.handle (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:58760)
+    at async doRender (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1366:42)
+    at async cacheEntry.responseCache.get.routeKind (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1588:28)
+    at async DevServer.renderToResponseWithComponentsImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1496:28)
+    at async DevServer.renderPageComponent (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1924:24)
+    at async DevServer.renderToResponseImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1962:32)
+    at async DevServer.pipeImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:922:25)
+    at async NextNodeServer.handleCatchallRenderRequest (E:\ReservationManagement\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:818:17)
+    at async E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (E:\ReservationManagement\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:336:24)
+    at async invokeRender (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:173:21)
+    at async handleRequest (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:350:24)
+    at async requestHandlerImpl (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:374:13)
+    at async Server.requestListener (E:\ReservationManagement\node_modules\next\dist\server\lib\start-server.js:141:13)
+2025-01-25T21:36:47.696Z [ERROR]: Error getting menu items: Veritabanına bağlanılamadı
+Stack: Error: Veritabanına bağlanılamadı
+    at connectDB (webpack-internal:///(rsc)/./config/database.js:28:15)
+    at async MenuService.getAllMenuItems (webpack-internal:///(rsc)/./services/menuService.js:23:26)
+    at async GET (webpack-internal:///(rsc)/./app/api/menu/route.js:29:27)
+    at async E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:57228
+    at async eT.execute (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:46851)
+    at async eT.handle (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:58760)
+    at async doRender (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1366:42)
+    at async cacheEntry.responseCache.get.routeKind (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1588:28)
+    at async DevServer.renderToResponseWithComponentsImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1496:28)
+    at async DevServer.renderPageComponent (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1924:24)
+    at async DevServer.renderToResponseImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1962:32)
+    at async DevServer.pipeImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:922:25)
+    at async NextNodeServer.handleCatchallRenderRequest (E:\ReservationManagement\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:818:17)
+    at async E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (E:\ReservationManagement\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:336:24)
+    at async invokeRender (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:173:21)
+    at async handleRequest (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:350:24)
+    at async requestHandlerImpl (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:374:13)
+    at async Server.requestListener (E:\ReservationManagement\node_modules\next\dist\server\lib\start-server.js:141:13)
+2025-01-25T21:36:47.866Z [ERROR]: Error getting menu items: Veritabanına bağlanılamadı
+Stack: Error: Veritabanına bağlanılamadı
+    at connectDB (webpack-internal:///(rsc)/./config/database.js:28:15)
+    at async MenuService.getAllMenuItems (webpack-internal:///(rsc)/./services/menuService.js:23:26)
+    at async GET (webpack-internal:///(rsc)/./app/api/menu/route.js:29:27)
+    at async E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:57228
+    at async eT.execute (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:46851)
+    at async eT.handle (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:58760)
+    at async doRender (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1366:42)
+    at async cacheEntry.responseCache.get.routeKind (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1588:28)
+    at async DevServer.renderToResponseWithComponentsImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1496:28)
+    at async DevServer.renderPageComponent (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1924:24)
+    at async DevServer.renderToResponseImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1962:32)
+    at async DevServer.pipeImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:922:25)
+    at async NextNodeServer.handleCatchallRenderRequest (E:\ReservationManagement\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:818:17)
+    at async E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (E:\ReservationManagement\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:336:24)
+    at async invokeRender (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:173:21)
+    at async handleRequest (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:350:24)
+    at async requestHandlerImpl (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:374:13)
+    at async Server.requestListener (E:\ReservationManagement\node_modules\next\dist\server\lib\start-server.js:141:13)
+2025-01-25T21:36:47.993Z [ERROR]: Error getting menu items: Veritabanına bağlanılamadı
+Stack: Error: Veritabanına bağlanılamadı
+    at connectDB (webpack-internal:///(rsc)/./config/database.js:28:15)
+    at async MenuService.getAllMenuItems (webpack-internal:///(rsc)/./services/menuService.js:23:26)
+    at async GET (webpack-internal:///(rsc)/./app/api/menu/route.js:29:27)
+    at async E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:57228
+    at async eT.execute (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:46851)
+    at async eT.handle (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:58760)
+    at async doRender (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1366:42)
+    at async cacheEntry.responseCache.get.routeKind (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1588:28)
+    at async DevServer.renderToResponseWithComponentsImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1496:28)
+    at async DevServer.renderPageComponent (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1924:24)
+    at async DevServer.renderToResponseImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1962:32)
+    at async DevServer.pipeImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:922:25)
+    at async NextNodeServer.handleCatchallRenderRequest (E:\ReservationManagement\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:818:17)
+    at async E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (E:\ReservationManagement\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:336:24)
+    at async invokeRender (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:173:21)
+    at async handleRequest (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:350:24)
+    at async requestHandlerImpl (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:374:13)
+    at async Server.requestListener (E:\ReservationManagement\node_modules\next\dist\server\lib\start-server.js:141:13)
+2025-01-25T21:36:48.157Z [ERROR]: Error getting menu items: Veritabanına bağlanılamadı
+Stack: Error: Veritabanına bağlanılamadı
+    at connectDB (webpack-internal:///(rsc)/./config/database.js:28:15)
+    at async MenuService.getAllMenuItems (webpack-internal:///(rsc)/./services/menuService.js:23:26)
+    at async GET (webpack-internal:///(rsc)/./app/api/menu/route.js:29:27)
+    at async E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:57228
+    at async eT.execute (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:46851)
+    at async eT.handle (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:58760)
+    at async doRender (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1366:42)
+    at async cacheEntry.responseCache.get.routeKind (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1588:28)
+    at async DevServer.renderToResponseWithComponentsImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1496:28)
+    at async DevServer.renderPageComponent (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1924:24)
+    at async DevServer.renderToResponseImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1962:32)
+    at async DevServer.pipeImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:922:25)
+    at async NextNodeServer.handleCatchallRenderRequest (E:\ReservationManagement\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:818:17)
+    at async E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (E:\ReservationManagement\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:336:24)
+    at async invokeRender (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:173:21)
+    at async handleRequest (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:350:24)
+    at async requestHandlerImpl (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:374:13)
+    at async Server.requestListener (E:\ReservationManagement\node_modules\next\dist\server\lib\start-server.js:141:13)
+2025-01-25T21:51:23.807Z [ERROR]: Error adding menu item: The INSERT statement conflicted with the FOREIGN KEY constraint "FK__MenuItems__Categ__47A6A41B". The conflict occurred in database "RestaurantManagementSystem", table "dbo.Categories", column 'CategoryID'.
+Meta: {
+  "code": "EREQUEST",
+  "originalError": {
+    "info": {
+      "name": "ERROR",
+      "handlerName": "onErrorMessage",
+      "number": 547,
+      "state": 0,
+      "class": 16,
+      "message": "The INSERT statement conflicted with the FOREIGN KEY constraint \"FK__MenuItems__Categ__47A6A41B\". The conflict occurred in database \"RestaurantManagementSystem\", table \"dbo.Categories\", column 'CategoryID'.",
+      "serverName": "DESKTOP-3VT4TR0",
+      "procName": "",
+      "lineNumber": 2
+    }
+  },
+  "name": "RequestError",
+  "number": 547,
+  "lineNumber": 2,
+  "class": 16,
+  "serverName": "DESKTOP-3VT4TR0",
+  "procName": "",
+  "precedingErrors": []
+}
+Stack: RequestError: The INSERT statement conflicted with the FOREIGN KEY constraint "FK__MenuItems__Categ__47A6A41B". The conflict occurred in database "RestaurantManagementSystem", table "dbo.Categories", column 'CategoryID'.
+    at handleError (webpack-internal:///(rsc)/./node_modules/mssql/lib/tedious/request.js:384:15)
+    at Connection.emit (node:events:524:28)
+    at Connection.emit (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:970:18)
+    at RequestTokenHandler.onErrorMessage (webpack-internal:///(rsc)/./node_modules/tedious/lib/token/handler.js:284:21)
+    at Readable.eval (webpack-internal:///(rsc)/./node_modules/tedious/lib/token/token-stream-parser.js:19:33)
+    at Readable.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushObjectMode (node:internal/streams/readable:538:3)
+    at Readable.push (node:internal/streams/readable:393:5)
+    at nextAsync (node:internal/streams/from:194:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-01-25T21:51:52.793Z [ERROR]: Error adding menu item: The INSERT statement conflicted with the FOREIGN KEY constraint "FK__MenuItems__Categ__47A6A41B". The conflict occurred in database "RestaurantManagementSystem", table "dbo.Categories", column 'CategoryID'.
+Meta: {
+  "code": "EREQUEST",
+  "originalError": {
+    "info": {
+      "name": "ERROR",
+      "handlerName": "onErrorMessage",
+      "number": 547,
+      "state": 0,
+      "class": 16,
+      "message": "The INSERT statement conflicted with the FOREIGN KEY constraint \"FK__MenuItems__Categ__47A6A41B\". The conflict occurred in database \"RestaurantManagementSystem\", table \"dbo.Categories\", column 'CategoryID'.",
+      "serverName": "DESKTOP-3VT4TR0",
+      "procName": "",
+      "lineNumber": 2
+    }
+  },
+  "name": "RequestError",
+  "number": 547,
+  "lineNumber": 2,
+  "class": 16,
+  "serverName": "DESKTOP-3VT4TR0",
+  "procName": "",
+  "precedingErrors": []
+}
+Stack: RequestError: The INSERT statement conflicted with the FOREIGN KEY constraint "FK__MenuItems__Categ__47A6A41B". The conflict occurred in database "RestaurantManagementSystem", table "dbo.Categories", column 'CategoryID'.
+    at handleError (webpack-internal:///(rsc)/./node_modules/mssql/lib/tedious/request.js:384:15)
+    at Connection.emit (node:events:524:28)
+    at Connection.emit (webpack-internal:///(rsc)/./node_modules/tedious/lib/connection.js:970:18)
+    at RequestTokenHandler.onErrorMessage (webpack-internal:///(rsc)/./node_modules/tedious/lib/token/handler.js:284:21)
+    at Readable.eval (webpack-internal:///(rsc)/./node_modules/tedious/lib/token/token-stream-parser.js:19:33)
+    at Readable.emit (node:events:524:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushObjectMode (node:internal/streams/readable:538:3)
+    at Readable.push (node:internal/streams/readable:393:5)
+    at nextAsync (node:internal/streams/from:194:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-01-25T22:42:09.652Z [ERROR]: Error creating menu addition: this.getAdditionById is not a function
+Stack: TypeError: this.getAdditionById is not a function
+    at MenuAdditionService.createAddition (webpack-internal:///(rsc)/./services/menuAdditionService.js:50:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async POST (webpack-internal:///(rsc)/./app/api/menu-additions/route.js:27:26)
+    at async E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:57228
+    at async eT.execute (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:46851)
+    at async eT.handle (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:58760)
+    at async doRender (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1366:42)
+    at async cacheEntry.responseCache.get.routeKind (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1588:28)
+    at async DevServer.renderToResponseWithComponentsImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1496:28)
+    at async DevServer.renderPageComponent (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1924:24)
+    at async DevServer.renderToResponseImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1962:32)
+    at async DevServer.pipeImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:922:25)
+    at async NextNodeServer.handleCatchallRenderRequest (E:\ReservationManagement\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:818:17)
+    at async E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (E:\ReservationManagement\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:336:24)
+    at async invokeRender (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:173:21)
+    at async handleRequest (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:350:24)
+    at async requestHandlerImpl (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:374:13)
+    at async Server.requestListener (E:\ReservationManagement\node_modules\next\dist\server\lib\start-server.js:141:13)
+2025-01-25T22:42:11.902Z [ERROR]: Error creating menu addition: this.getAdditionById is not a function
+Stack: TypeError: this.getAdditionById is not a function
+    at MenuAdditionService.createAddition (webpack-internal:///(rsc)/./services/menuAdditionService.js:50:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async POST (webpack-internal:///(rsc)/./app/api/menu-additions/route.js:27:26)
+    at async E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:57228
+    at async eT.execute (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:46851)
+    at async eT.handle (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:58760)
+    at async doRender (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1366:42)
+    at async cacheEntry.responseCache.get.routeKind (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1588:28)
+    at async DevServer.renderToResponseWithComponentsImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1496:28)
+    at async DevServer.renderPageComponent (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1924:24)
+    at async DevServer.renderToResponseImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1962:32)
+    at async DevServer.pipeImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:922:25)
+    at async NextNodeServer.handleCatchallRenderRequest (E:\ReservationManagement\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:818:17)
+    at async E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (E:\ReservationManagement\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:336:24)
+    at async invokeRender (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:173:21)
+    at async handleRequest (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:350:24)
+    at async requestHandlerImpl (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:374:13)
+    at async Server.requestListener (E:\ReservationManagement\node_modules\next\dist\server\lib\start-server.js:141:13)
+2025-01-25T22:53:50.984Z [ERROR]: Error creating addition group: this.getAdditionGroupById is not a function
+Stack: TypeError: this.getAdditionGroupById is not a function
+    at MenuAdditionService.createAdditionGroup (webpack-internal:///(rsc)/./services/menuAdditionService.js:26:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async POST (webpack-internal:///(rsc)/./app/api/menu-additions/groups/route.js:27:23)
+    at async E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:57228
+    at async eT.execute (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:46851)
+    at async eT.handle (E:\ReservationManagement\node_modules\next\dist\compiled\next-server\app-route.runtime.dev.js:6:58760)
+    at async doRender (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1366:42)
+    at async cacheEntry.responseCache.get.routeKind (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1588:28)
+    at async DevServer.renderToResponseWithComponentsImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1496:28)
+    at async DevServer.renderPageComponent (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1924:24)
+    at async DevServer.renderToResponseImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:1962:32)
+    at async DevServer.pipeImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:922:25)
+    at async NextNodeServer.handleCatchallRenderRequest (E:\ReservationManagement\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (E:\ReservationManagement\node_modules\next\dist\server\base-server.js:818:17)
+    at async E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (E:\ReservationManagement\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (E:\ReservationManagement\node_modules\next\dist\server\dev\next-dev-server.js:336:24)
+    at async invokeRender (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:173:21)
+    at async handleRequest (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:350:24)
+    at async requestHandlerImpl (E:\ReservationManagement\node_modules\next\dist\server\lib\router-server.js:374:13)
+    at async Server.requestListener (E:\ReservationManagement\node_modules\next\dist\server\lib\start-server.js:141:13)
